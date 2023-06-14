@@ -46,3 +46,9 @@ Examples:
 - Consider explaning the solution and why certain things are included and others are left out.
 - Be written either in Swift or Kotlin, preferably in the latest stable version of the language.
 - If possible, use the latest stable version (no Betas) of Xcode or Android Studio.
+
+# Screenshots
+![Alt text](/screenshots/1_home.jpg?raw=true "Home")
+![Alt text](/screenshots/2_product_detail.jpg?raw=true "Optional Title")
+![Alt text](/screenshots/3_cart.jpg?raw=true "Optional Title")
+![Alt text](/screenshots/4_checkout.jpg?raw=true "Optional Title")
