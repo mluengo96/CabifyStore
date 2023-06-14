@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CabifyStore</string>
+
+    <!-- AppBar -->
+    <string name="app_bar">Cabify Store</string>
+
+    <!-- Cart Screen -->
+    <string name="total">Total:</string>
+    <string name="checkout_button">Proceed to checkout</string>
+    <string name="purchase_dialog_text">Thanks for making the purchase. We hope to see you soon!</string>
+    <string name="purchase_dialog_dismiss">Dismiss</string>
+    <string name="empty_cart_text">Nothing to see here… yet</string>
+
+    <!-- Shop Screen -->
+    <string name="two_per_one_discount">Buy 2 and get 1 for free!</string>
+    <string name="add_button">Add</string>
+    <string name="new_products_title">New Products</string>
+    <string name="error">ERROR</string>
+
+</resources>
